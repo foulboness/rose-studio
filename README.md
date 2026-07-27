@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Requirements
 Ensure you have [Node.js](https://nodejs.org/) (v16+) installed on your system.
@@ -34,6 +34,6 @@ Ensure you have [Node.js](https://nodejs.org/) (v16+) installed on your system.
 Clone the repository and install dependencies:
 
 ```bash
-git clone [https://github.com/your-username/pixel-bloom-studio.git](https://github.com/your-username/pixel-bloom-studio.git)
-cd pixel-bloom-studio
+git clone [https://github.com/your-foulboness/rose-studio.git]
+cd rose-studio
 npm install lucide-react
