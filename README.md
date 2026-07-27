@@ -79,5 +79,3 @@ const PRESETS = [
 ## License
 
 Distributed under the **MIT License**. Feel free to use, modify, and integrate it into your own creative projects!
-
-```
