@@ -4,14 +4,63 @@
 
 ---
 
-## Features
+## ✨ Overview
 
-- Instant Duotone Engine:** Apply custom dual-tone color gradients to any uploaded image.
-- Halftone & CRT FX:** Customizable halftone dot overlays, CRT scanlines, grain, and radial vignette.
-- Cyberpunk Typography:** Render styled title and subtitle overlays with adjustable RGB glitch distortion.
-- Fully Responsive:** Dedicated mobile navigation toggle for seamless switching between preview and control sidebars.
-- Preset Swatches:** Quick-select color palettes (Rose, Velvet, Sunset, Amethyst, and Noir presets).
-- PNG Export:** Download high-resolution PNGs directly from your browser canvas.
+**Velvet Bloom Studio** is a browser-based creative image editor inspired by vintage poster design, fashion editorials, and experimental digital art.
+
+Upload an image, apply artistic filters, customize colours, add typography, and export your final composition as a high-quality PNG.
+
+The project combines modern web technologies with canvas-based rendering to create a lightweight creative studio experience directly in the browser.
+
+---
+
+## 🎨 Features
+
+### 🖼 Image Processing
+- Drag & drop image uploading
+- Custom image framing
+- Portrait, square, landscape, and original formats
+- Canvas-based rendering pipeline
+
+### 🌸 Duotone Studio
+- Convert images into custom two-colour compositions
+- Built-in artistic colour presets
+- Custom shadow and highlight colours
+
+### ✨ Poster Effects
+- Halftone dot texture
+- Film grain generation
+- Soft scanline overlays
+- Adjustable vignette
+- Glitch distortion effects
+
+### ✍️ Typography System
+- Custom poster titles
+- Subtitle support
+- Adjustable text size
+- Editorial glitch typography
+- Multiple font styles
+
+### 🎭 Theme System
+Built-in visual themes:
+
+- 🌸 Velvet Rose
+- 🖤 Noir Film
+- 🕯 Dark Academia
+- 🌌 Midnight Aurora
+- 🧸 Kawaii Candy
+
+Themes dynamically change:
+- Background colours
+- Accent colours
+- UI styling
+- Editor atmosphere
+
+### 📤 Export
+- Export finished artwork as PNG
+- High-resolution canvas rendering
+
+---
 
 ---
 
