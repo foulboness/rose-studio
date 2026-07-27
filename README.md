@@ -41,8 +41,6 @@ The project combines modern web technologies with canvas-based rendering to crea
 
 ---
 
----
-
 ## Tech Stack
 
 - **Framework:** React + Vite / Next.js
