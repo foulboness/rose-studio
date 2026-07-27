@@ -1,7 +1,5 @@
 # Rose Studio
 
----
-
 ## Overview
 
 A browser-based creative image editor inspired by vintage poster design, fashion editorials, and experimental digital art.
