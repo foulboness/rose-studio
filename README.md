@@ -1,15 +1,11 @@
 # Rose Studio
 
-> **A retro-futuristic, web-based image generator for creating halftone duotone poster art.**  
-
 ---
 
-## ✨ Overview
+## Overview
 
-**Velvet Bloom Studio** is a browser-based creative image editor inspired by vintage poster design, fashion editorials, and experimental digital art.
-
+A browser-based creative image editor inspired by vintage poster design, fashion editorials, and experimental digital art.
 Upload an image, apply artistic filters, customize colours, add typography, and export your final composition as a high-quality PNG.
-
 The project combines modern web technologies with canvas-based rendering to create a lightweight creative studio experience directly in the browser.
 
 ---
